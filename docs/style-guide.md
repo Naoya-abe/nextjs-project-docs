@@ -9,7 +9,7 @@
 
 ### Naming
 
-- 変数名は基本的に`camelCase`でお願いします。
-- クラス名や型名`PascalCase`でお願いします。
+- 変数名は`camelCase`でお願いします。
+- クラス名や型名は`PascalCase`でお願いします。
 
 [Naming Cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
